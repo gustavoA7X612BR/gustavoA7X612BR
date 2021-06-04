@@ -8,3 +8,4 @@ My name is Gustavo Monteiro, I'm a student learning web development.
  - JavaScript ES6+
  - C#
  - C++
+ - C
