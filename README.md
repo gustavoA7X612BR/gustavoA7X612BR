@@ -1,6 +1,6 @@
 # Welcome to my profile! 😃
 
-🎓 Information Systems student at [UTFPR](http://portal.utfpr.edu.br/english)
+🎓 Information Systems student at [UTFPR](https://portal.utfpr.edu.br/english)
 
 My name is Gustavo Monteiro, I'm a student learning web development.
 
