@@ -2,7 +2,7 @@
 
 🎓 Information Systems student at [UTFPR](https://portal.utfpr.edu.br/english)
 
-My name is Gustavo Monteiro, I'm a student learning web development.
+My name is Gustavo Monteiro, I'm a Information Systems student learning web development.
 
 ## Skills
 
